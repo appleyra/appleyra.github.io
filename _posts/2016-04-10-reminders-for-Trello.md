@@ -9,8 +9,6 @@ image: http://www.appleyra.se/wp-content/uploads/2016/04/Reminders-for-Trello-ba
 
 [^1]: Du kan uppnå samma resultat genom att söka i Trello. Men jag tycker det är bökigt och Reminders for Trello gör det smidigare. 
 
-![Reminders for Trello banner](http://www.appleyra.se/wp-content/uploads/2016/04/Reminders-for-Trello-banner.jpeg)
-
 ## Inledning
 
 Reminders för Trello är en app skriven av Anton Spivak. Han skrev den för eget bruk och blev lite förvånad när jag kontaktade honom. Det är en väldigt enkel app som listar alla kort som är tilldelade dig och har ett förfallodatum.
