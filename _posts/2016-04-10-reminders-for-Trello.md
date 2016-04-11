@@ -8,8 +8,6 @@ date: 2016-04-10
 
 [^1]: Du kan uppnå samma resultat genom att söka i Trello. Men jag tycker det är bökigt och Reminders for Trello gör det smidigare. 
 
- <!--more-->
-
 ![Reminders for Trello banner](http://i2.wp.com/www.appleyra.se/wp-content/uploads/2016/04/Reminders-for-Trello-banner.jpeg)
 
 ## Inledning
