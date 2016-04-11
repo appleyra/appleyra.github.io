@@ -8,7 +8,7 @@ date: 2016-04-10
 
 [^1]: Du kan uppnå samma resultat genom att söka i Trello. Men jag tycker det är bökigt och Reminders for Trello gör det smidigare. 
 
-![Reminders for Trello banner](http://i2.wp.com/www.appleyra.se/wp-content/uploads/2016/04/Reminders-for-Trello-banner.jpeg)
+![Reminders for Trello banner](http://www.appleyra.se/wp-content/uploads/2016/04/Reminders-for-Trello-banner.jpeg)
 
 ## Inledning
 
@@ -18,7 +18,7 @@ Reminders för Trello är en app skriven av Anton Spivak. Han skrev den för ege
 
 I nuläget är funktionaliteten begränsad och du kan bara titta på titel till korten. De sorteras i datumordning indelade i olika sektioner. De närmsta dagarna är uppdelade i var sin sektion medan de uppgifter med en förfallodatum längre fram *klumpas* ihop i en sektion längst ner. Detta gör att du får en bra översikt på vad som ska göras och när. I övre delen finns ett **+** för att lägga till nya uppgifter, men när du knackar på den blir du skickad till Trello. Till höger om uppgiften är det en ikon som ser ut som ett timglas. Genom att svepa åt vänster kan du markera en uppgift som klar eller avbruten. När den markeras klar ändras ikonen till en liten pokal på uppgiften men det händer inget med kortet i Trello. Det samma gäller om du markerar den som avbruten. För att manuellt synkronisera med Trello kan du dra ner.
 
-![Reminders for Trello](http://i1.wp.com/www.appleyra.se/wp-content/uploads/2016/04/Reminders-for-Trello.jpeg)
+![Reminders for Trello](http://www.appleyra.se/wp-content/uploads/2016/04/Reminders-for-Trello.jpeg)
 
 ## Sammanfattning 
 
