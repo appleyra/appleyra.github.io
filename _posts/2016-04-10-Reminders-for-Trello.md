@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Reminders for Trello"
+date: 2016-04-10
+---
+
+
 *Jag har skrivit mycket om Trello den senaste tiden och det beror på att jag gillar att använda tjänsten och hittar nya intressanta saker. Tidigare skrev jag om hur du [skickar dina uppgifter från Trello till 2Do](http://www.appleyra.se/genomgangar/skicka-uppgifter-fran-trello-till-2do/) och det är den metoden jag använder. Men det finns även mindre krångliga sätt att ha koll på sina uppgifter i Trello [^1] och det är där [Reminders for Trello](https://itunes.apple.com/se/app/reminders-for-trello-easy/id1079263891?mt=8&uo=4&at=10lKZy&ct=twitter) kommer in.*
 
 [^1]: Du kan uppnå samma resultat genom att söka i Trello. Men jag tycker det är bökigt och Reminders for Trello gör det smidigare. 
