@@ -4,10 +4,10 @@
 	<nav class="links">
     
     <ul>
-        Filed In: 
+  
  {% unless p.categories == empty %}
- {% for categories in post.categories %}
- <a href="http://appleyra.github.io/category.html#{{categories}}">{{ categories }}</a>
+ <li>{% for categories in post.categories %}
+ <a href="http://appleyra.github.io/category.html#{{categories}}">{{ categories }}</a></li>
  {% endfor %}
  {% endunless %}
       
