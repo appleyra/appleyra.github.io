@@ -2,6 +2,8 @@
 layout: post
 title: Skicka påminnelser från Trello till 2Do
 date: 2016-04-03
+categories: Genomgångar
+tags: Trello, 2Do, Automatisering
 image: http://www.appleyra.se/wp-content/uploads/2016/04/IFTTT-Trello-till-Reminders.jpg
 ---
 
