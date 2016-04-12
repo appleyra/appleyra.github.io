@@ -2,6 +2,8 @@
 layout: post
 title: "Reminders for Trello"
 date: 2016-04-10
+categories: Recensioner
+tags: app iOS Trello
 image: http://www.appleyra.se/wp-content/uploads/2016/04/Reminders-for-Trello-banner.jpeg
 ---
 
