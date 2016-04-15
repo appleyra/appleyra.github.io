@@ -20,7 +20,6 @@ format: image
 
 *Jag har tidigare skrivit om Launch Center Pro på Crafty bland annat [här](http://www.crafty.se/introduktion-till-launch-center-pro/) och [här](http://www.crafty.se/introduktion-till-url-schema/). Jag har länge funderat på att visa hur jag använder Launch Center Pro men problemet har varit att jag inte tyckt att det varit tillräckligt organiserat och jag har inte känt mig mogen för att dela med mig. Det har varit en lång process att hitta rätt användning för mig eftersom det finns så många olika användningsområden och det är först nyligen jag hittat en stomme jag är nöjd med. Tack vare detta har jag bara en rad med appar på min hemskärm.*
 
-<!--more-->
 
 ## Inledning {#inledning}
 
