@@ -3,7 +3,7 @@ design: post
 title: Få koll på slutspelet med SHLive 
 categories: Recensioner
 tags: iPhone app 
-image: http://i0.wp.com/www.appleyra.se/wp-content/uploads/2016/03/SHLive-utseende.jpeg
+image: http://www.appleyra.se/wp-content/uploads/2016/03/SHLive-utseende.jpeg
 ---
 
 *De unga grabbarna bakom [ShowTrack](http://www.appleyra.se/recensioner/fa-oversikt-pa-dina-tv-serier-med-showtrack/) har släppt en ny app, SHLive. Denna gången är det en app för att hålla koll på resultat och statistik i SHL (Svenska hockeyligan). Vilket är väldigt passande så här i slutspelstider.*
