@@ -8,12 +8,12 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://appleyra.github.io" # the base hostname & protocol for your site
 twitter_username: appleyra
-github_username:  jekyll
+github_username:  appleyra
 
 # Build settings
 markdown: kramdown
 
-paginate: 4
+paginate: 6
 
 author: Johan Gustaphzon
 
