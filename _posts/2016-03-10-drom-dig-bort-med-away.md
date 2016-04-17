@@ -14,7 +14,6 @@ tags:
 ---
 
 ![Away banner](http://i2.wp.com/www.appleyra.se/wp-content/uploads/2016/03/Away-banner.jpeg)
-
 _Franz Bruckhoff och Taptanium är tillbaka med en ny app. Away följer samma spår som hans tidigare appar [Sunny](https://itunes.apple.com/se/app/sunny-calm-wave-ocean-sounds/id916540089?mt=8&uo=4&at=10lKZy&ct=appleyra) och [Windy](https://itunes.apple.com/se/app/windy-sleep-relax-meditate/id841377297?mt=8&uo=4&at=10lKZy&ct=twitter), där han försöker få människor avslappnade med högkvalitativa naturljud._
 
 <!--more-->
