@@ -1,5 +1,5 @@
 ---
-design: post
+layout: post
 title: Få koll på slutspelet med SHLive 
 categories: Recensioner
 tags: iPhone app 
